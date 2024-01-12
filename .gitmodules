@@ -1,0 +1,12 @@
+[submodule "bit_magic"]
+	path = bit_magic
+	url = ./bit_magic/
+[submodule "mathematics"]
+	path = mathematics
+	url = ./mathematics/
+[submodule "strings"]
+	path = strings
+	url = ./strings
+[submodule "recursion"]
+	path = recursion
+	url = ./recursion/
